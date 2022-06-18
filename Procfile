@@ -1,1 +1,1 @@
-worker: python tbot_films.py
+worker: python tch.py
